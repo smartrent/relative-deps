@@ -29,7 +29,7 @@
   "dependencies": {
     "checksum": "^0.1.1",
     "globby": "^11.1.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "read-pkg-up": "^6.0.0",
     "rimraf": "^2.6.3",
     "tar": "^7.5.4",
